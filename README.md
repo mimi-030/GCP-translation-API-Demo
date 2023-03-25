@@ -24,8 +24,7 @@ For large audio files, this method is your go-to solution. Learn how to use GCP'
 	- [Transform Your Audio Files with Ease: Effortlessly Transcribe and Translate at Scale with Google Cloud](http://localhost:4000/2023/03/25/Google-Cloud/ "Transform Your Audio Files with Ease: Effortlessly Transcribe and Translate at Scale with Google Cloud")
 
 
-#### If you find this content helpful, don't forget to give us a star and follow us for more exciting updates 🌟😊If you find this content helpful, don't forget to give us a star and follow us for more exciting updates 🌟😊
-
+#### If you find this content helpful😊 , don't forget to give us a star and follow us for more exciting updates 🌟😊
 
 
 
